@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @besho58
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
 
 <!---
 besho58/besho58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
